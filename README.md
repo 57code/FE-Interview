@@ -58,11 +58,7 @@
 
 <br />
 
-## 📱 手机刷题(附带详细答案)
 
-> 二维码加载失败请点击 [入口](http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png)
-
- <img src="http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png" width="200px" >
 
 ## ⏱️ 最近更新
 
@@ -90,15 +86,6 @@
 - [Day364：为什么说 React 中 props 是只读的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
 - [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
 
-## 🏠 前端面试 Family
-
-如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
-
-<div align="center">
-    <img src="http://img-static.yidengxuetang.com/wxapp/github-img/bot.gif" width="500px" >
-</div>
-
-<br />
 
 ## 版权许可
 
