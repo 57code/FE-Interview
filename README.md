@@ -50,14 +50,6 @@
 
 **[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/122)**
 
-<br />
-
-## 📚 前端面试题汇总
-
-- **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview/issues)**
-
-<br />
-
 
 
 ## ⏱️ 最近更新
